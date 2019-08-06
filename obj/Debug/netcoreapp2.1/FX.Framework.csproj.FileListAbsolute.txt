@@ -1,0 +1,8 @@
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\bin\Debug\netcoreapp2.1\FX.Framework.deps.json
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\bin\Debug\netcoreapp2.1\FX.Framework.dll
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\bin\Debug\netcoreapp2.1\FX.Framework.pdb
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\obj\Debug\netcoreapp2.1\FX.Framework.csproj.CoreCompileInputs.cache
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\obj\Debug\netcoreapp2.1\FX.Framework.AssemblyInfoInputs.cache
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\obj\Debug\netcoreapp2.1\FX.Framework.AssemblyInfo.cs
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\obj\Debug\netcoreapp2.1\FX.Framework.dll
+E:\FX.Project\Album\imageProcess-dotnetCore\FX.Album.ImageProcess\FX.Framework\obj\Debug\netcoreapp2.1\FX.Framework.pdb
